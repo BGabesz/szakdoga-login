@@ -1,0 +1,56 @@
+{
+    "adatok": [
+        {
+            "cim": "1.kép cime",
+            "kep": "../kepek/hh3.jpg",
+            "leiras": "1.kép leíársa"
+        },
+        {
+            "cim": "2.kép cime",
+            "kep": "../kepek/hh2.jpg",
+            "leiras": "2.kép leíársa"
+        },
+        {
+            "cim": "3.kép cime",
+            "kep": "../kepek/hh1.jpg",
+            "leiras": "3.kép leíársa"
+        },
+        {
+            "cim": "4.kép cime",
+            "kep": "../kepek/hh3.jpg",
+            "leiras": "4.kép leíársa"
+        },
+        {
+            "cim": "5.kép cime",
+            "kep": "../kepek/hh2.jpg",
+            "leiras": "5.kép leíársa"
+        },
+        {
+            "cim": "6.kép cime",
+            "kep": "../kepek/hh1.jpg",
+            "leiras": "6.kép leíársa"
+        }
+    ],
+    "berletek": [
+        {
+            "cim": "Diák bérlet",
+            "leiras": "50%os kedvezmény minden diák részére",
+            "ar": 5000
+        },
+        {
+            "cim": "Fogyatékos bérlet",
+            "leiras": "80%os kedvezmény",
+            "ar": 2000
+        },
+        {
+            "cim": "Normál bérlet",
+            "leiras": "Nincs kedvezmény",
+            "ar": 10000
+        },
+        {
+            "cim": "Sárga bérlet",
+            "leiras": "-20% kedvezmény",
+            "ar": 12000
+        }
+    ]
+}

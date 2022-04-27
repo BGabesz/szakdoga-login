@@ -1,0 +1,52 @@
+{
+  "berlet_tipuses": [
+    {
+      "berlet_tipus_id": "1",
+      "megnevezes": "diak",
+      "idotartam_nap": "30",
+      "ár": "3000",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "megnevezes": "teljes áru",
+      "idotartam_nap": "30",
+      "ár": "3000",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "3",
+      "megnevezes": "rendor",
+      "idotartam_nap": "30",
+      "ár": "2900",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "4",
+      "megnevezes": "diak éves",
+      "idotartam_nap": "365",
+      "ár": "30000",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "5",
+      "megnevezes": "rendor éves",
+      "idotartam_nap": "365",
+      "ár": "29000",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "6",
+      "megnevezes": "teljes áru éves",
+      "idotartam_nap": "365",
+      "ár": "35000",
+      "created_at": null,
+      "updated_at": null
+    }
+  ]
+}

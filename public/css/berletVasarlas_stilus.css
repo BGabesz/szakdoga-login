@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+body {
+    width: 100%;
+    margin: auto;
+    background-image: url("../kepek/hatter3.jpg");
+    color: white;
+}
+
+main {
+    display: grid;
+    grid-template-areas: 
+    "h h h h s s"
+    "a a a a s s"
+    "f f f f f f";
+}
+
+header {
+    grid-area: h;
+    text-align: center;
+
+}
+
+header h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+
+#kijel a{
+    position: absolute;
+    z-index: 6000;
+    left: 40px;
+    top: 80px;
+    font-size: 25px;
+    color: white;
+}
+
+#kijel a:hover{
+    text-decoration: none;
+    color: orange;
+}
+
+
+article {
+    grid-area: a;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap:10px;
+    /*margin: auto; /*ettől meg középre*/
+}
+
+article div {
+    border: 1px solid black;
+    width: 65%; /*100, 2x akkora lesz jobbra ha 200%ot írok*/
+    margin-left: 40px; /*nem kell*/
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /*background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);*/
+    background-color: gray;
+    text-align: center;
+    
+}
+
+aside {
+    grid-area: s;
+    background-color: rgba(95, 85, 81, 0.842);
+    opacity: 80%;
+}
+
+aside div {
+    /*background-image: radial-gradient(circle, red, yellow, green);*/
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+
+}
+
+td,tr,th{
+    padding-left: 30px;
+}
+
+footer{
+    grid-area: f;
+    text-align: center;
+    background-color: rgba(235, 80, 69, 0.842);
+    opacity: 80%;
+}
+
+.instakep{
+    /*background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);*/
+    /*background-image: radial-gradient(circle, red, yellow, green);*/
+    font-size:100px;
+    color: orange;
+    margin-right: 15px;
+}
+
+.facekep{
+    font-size:100px;
+    color: blue;
+    margin-right: 34px;
+}
+
+footer span{
+    font-size: 40px;
+}
+
+.osszGomb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 1450px) {
+    #kijel a{
+        top: 150px;
+    }
+    
+}
+@media only screen and (max-width: 1200px) {
+    main {
+        display: grid;
+        grid-template-areas: 
+        "h h h h h h"
+        "a a a a a a"
+        "s s s s s s"
+        "f f f f f f";
+    }
+
+    aside div{
+        width: 100%;
+        margin: auto;
+    }
+}

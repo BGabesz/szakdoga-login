@@ -1,0 +1,26 @@
+@charset "utf-8";
+.hibaüzenet{
+  position: fixed;
+  left: 50%;
+  top:50px;
+  transform: translate(-50%, 0);
+  opacity: 0.96;
+  color: black;
+  text-align: center;
+  top: 60px;
+  width: 40%;
+  padding: 30px;
+  border-radius: 5px;
+}
+.sikertelenUzenet {
+    background-color: rgb(248, 11, 11);
+    box-shadow: 0 0 15px 5px rgb(248, 11, 11);
+}
+.sikeresUzenet{
+    background-color: #1cb85d;
+    box-shadow: 0 0 15px 5px #1cb85d;
+}
+.figyelmeztetes{
+    box-shadow: 0 0 15px 5px rgb(255, 208, 0);
+    background-color: rgb(255, 208, 0);
+}

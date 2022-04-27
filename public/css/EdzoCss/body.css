@@ -1,0 +1,163 @@
+@charset "utf-8";
+
+html{
+    background-color: rgb(230, 230, 230);
+    min-width: 230px;
+}
+main{
+    display: grid;
+    grid-template-areas: 
+    "h h h h h h"
+    "a a a a a a"
+    "s s s s s s"
+    "f f f f f f"
+}
+header{
+    grid-area:h;
+}
+nav{
+    grid-area:n;
+}
+article{
+    grid-area:a;
+}
+section{
+    grid-area:s;
+}
+footer{
+    grid-area:f;
+}
+/* beviteli mezőknél kis ikonnál cursor pointer lesz */
+input::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+}
+input:hover{
+    cursor: text;
+}
+
+#szemelyMegjelenites{
+    grid-area:sz;
+}
+body{
+    margin: 0px;
+    background-color:  #5F9EA0;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #054950;
+    margin: 0px;
+    
+}
+form input{
+    height: 30px;
+    border-radius: 3px;
+    margin: 10px;
+    width: 170px;
+    border-radius: 5px;
+}
+form button{
+    margin: 10px;
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    background-color: #3d3d3d;
+    color: whitesmoke;
+    border-radius: 3px;
+}
+
+.szures,.tol,.ig,.szemelyreSzures{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+}
+.szures .tol{
+    padding-left: 4px;
+}
+.szures p{
+    margin: 0;
+    margin-top: 7px;
+}
+.szures button{
+    width: 20px;
+    cursor: pointer;
+    background-color: #3d3d3d;
+    color: whitesmoke;
+}
+.szures .JobbraNovelIg,.JobbraNovelTol{
+    border-radius: 0px 8px 8px 0px;
+}
+.szures .BalraCsokkentIg,.BalraCsokkentTol{
+    border-radius: 8px 0px 0px 8px;
+}
+.tol input,.ig input{
+    width: 125px;
+}
+.SzemelyKeres{
+    width: 185px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: inset;
+}
+input:focus { 
+    outline:none;
+    border-color:#9ecaed;
+    box-shadow:0 0 10px #9ecaed;
+   }
+.datumKeresTol::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+}
+.datumKeresIg::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+}
+.szures button{
+    padding: 0px;
+    cursor: pointer;
+}
+.szures button, .szures input{
+    height: 30px;
+}
+.szures .datumKeres{
+    width: 150px;
+}
+.szures .oszlopSzam{
+    width: 40px;
+}
+.idopont{
+    padding: 20px;
+}
+.szures{
+    background-color: #054950;
+    margin: 0px;
+    padding-bottom: 10px;
+    box-shadow:0px 10px 6px 10px #054950;
+}
+.szures p{
+    color: whitesmoke;
+}
+.alert{
+    position: fixed;
+    left: 50%;
+    top:50px;
+    transform: translate(-50%, 0);
+    opacity: 0.96;
+    color: black;
+    text-align: center;
+    top: 60px;
+    width: 40%;
+    padding: 30px;
+    border-radius: 5px;
+}
+.alert-sikertelen{
+    background-color: rgb(248, 11, 11);
+    box-shadow: 0 0 15px 5px rgb(248, 11, 11);
+}
+.alert-sikeres{
+    background-color: #1cb85d;
+    box-shadow: 0 0 15px 5px #1cb85d;
+}
+.SzemelySzuro{
+    border-radius: 5px;
+}

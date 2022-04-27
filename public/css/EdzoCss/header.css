@@ -1,0 +1,13 @@
+
+@charset "utf-8";
+#gomb{
+  width: 30px;
+  text-align: center;
+}
+
+.oszlopSzam{
+  width: 40px;
+}
+.szures .BalraCsokkent,.szures .JobbraNovel{
+  width: 70px;
+}

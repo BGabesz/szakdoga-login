@@ -1,0 +1,429 @@
+{"eszkoztipus":
+[
+{
+    "eszkoz_tipus_szamlalo": "1",
+    "eszkoz_neve": "Kézisúlyzó",
+    "suly": "1",
+    "kep": "Kép1",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "2",
+    "eszkoz_neve": "Fekvenyomó Pad Vízszintes",
+    "suly": "1",
+    "kep": "Kép2",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "3",
+    "eszkoz_neve": "Fekvenyomó Pad Ferde",
+    "suly": "1",
+    "kep": "Kép3",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "4",
+    "eszkoz_neve": "Pillangó Mellgép",
+    "suly": "1",
+    "kep": "Kép4",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "5",
+    "eszkoz_neve": "Keresztcsiga",
+    "suly": "1",
+    "kep": "Kép5",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "6",
+    "eszkoz_neve": "Mellnyomó Gép",
+    "suly": "1",
+    "kep": "Kép6",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "7",
+    "eszkoz_neve": "pec-deck Gép",
+    "suly": "1",
+    "kep": "Kép7",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "8",
+    "eszkoz_neve": "Smith Keret",
+    "suly": "1",
+    "kep": "Kép8",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "9",
+    "eszkoz_neve": "Húzódzkodó Rúd",
+    "suly": "1",
+    "kep": "Kép9",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "10",
+    "eszkoz_neve": "Csigás Hátgép",
+    "suly": "1",
+    "kep": "Kép10",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "11",
+    "eszkoz_neve": "Evezőgép",
+    "suly": "1",
+    "kep": "Kép11",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "12",
+    "eszkoz_neve": "Kábeles Evezőgép",
+    "suly": "1",
+    "kep": "Kép12",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "13",
+    "eszkoz_neve": "T-rudas Evezőgép",
+    "suly": "1",
+    "kep": "Kép13",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "14",
+    "eszkoz_neve": "Hiperextenzív pad",
+    "suly": "1",
+    "kep": "Kép14",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "15",
+    "eszkoz_neve": "Ülő Oldalemelő Gép",
+    "suly": "1",
+    "kep": "Kép15",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "16",
+    "eszkoz_neve": "Hátsóváll Gép",
+    "suly": "1",
+    "kep": "Kép16",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "17",
+    "eszkoz_neve": "Vállból Nyomó Gép",
+    "suly": "1",
+    "kep": "Kép17",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "18",
+    "eszkoz_neve": "Lábtoló Gép",
+    "suly": "1",
+    "kep": "Kép18",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "19",
+    "eszkoz_neve": "Lábfeszítő Gép",
+    "suly": "1",
+    "kep": "Kép19",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "20",
+    "eszkoz_neve": "Lábhajlító Gép",
+    "suly": "1",
+    "kep": "Kép20",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "21",
+    "eszkoz_neve": "Hack Guggoló Gép",
+    "suly": "1",
+    "kep": "Kép21",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "22",
+    "eszkoz_neve": "Álló Lábhajlító Gép",
+    "suly": "1",
+    "kep": "Kép22",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "23",
+    "eszkoz_neve": "Comb Távolító Gép",
+    "suly": "1",
+    "kep": "Kép23",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "24",
+    "eszkoz_neve": "Comb Összenyomó Gép",
+    "suly": "1",
+    "kep": "Kép24",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "25",
+    "eszkoz_neve": "Vízszintes Lábtoló Gép",
+    "suly": "1",
+    "kep": "Kép25",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "26",
+    "eszkoz_neve": "Csípőemelő Gép",
+    "suly": "1",
+    "kep": "Kép26",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "27",
+    "eszkoz_neve": "Bicepsz Rúd",
+    "suly": "1",
+    "kep": "Kép27",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "28",
+    "eszkoz_neve": "Franciarúd",
+    "suly": "1",
+    "kep": "Kép28",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "29",
+    "eszkoz_neve": "Csigás Bicepszgép",
+    "suly": "1",
+    "kep": "Kép29",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "30",
+    "eszkoz_neve": "Scott Pad",
+    "suly": "1",
+    "kep": "Kép30",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "31",
+    "eszkoz_neve": "Kétkezes Bicepszgép",
+    "suly": "1",
+    "kep": "Kép31",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "32",
+    "eszkoz_neve": "Csigás Rúd",
+    "suly": "1",
+    "kep": "Kép32",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "33",
+    "eszkoz_neve": "Tricepsz Kötél",
+    "suly": "1",
+    "kep": "Kép33",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "34",
+    "eszkoz_neve": "Tolódzkodó Gép",
+    "suly": "1",
+    "kep": "Kép34",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "35",
+    "eszkoz_neve": "Tricepsz Nyomó Gép",
+    "suly": "1",
+    "kep": "Kép35",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "36",
+    "eszkoz_neve": "Tricepsz Nyujtó Gép",
+    "suly": "1",
+    "kep": "Kép36",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "37",
+    "eszkoz_neve": "Csigás Rúd",
+    "suly": "1",
+    "kep": "Kép37",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "38",
+    "eszkoz_neve": "Álló Vádligép",
+    "suly": "1",
+    "kep": "Kép38",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "39",
+    "eszkoz_neve": "Ülő Vádligép",
+    "suly": "1",
+    "kep": "Kép39",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "40",
+    "eszkoz_neve": "Szamár Vádligép",
+    "suly": "1",
+    "kep": "Kép40",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "41",
+    "eszkoz_neve": "Csúszka Hasgép",
+    "suly": "1",
+    "kep": "Kép41",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "42",
+    "eszkoz_neve": "Törzsforgató Gép",
+    "suly": "1",
+    "kep": "Kép42",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "43",
+    "eszkoz_neve": "Hasprés Gép",
+    "suly": "1",
+    "kep": "Kép43",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "44",
+    "eszkoz_neve": "Felülő pad",
+    "suly": "1",
+    "kep": "Kép44",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "45",
+    "eszkoz_neve": "Markoló Eszköz",
+    "suly": "1",
+    "kep": "Kép45",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "46",
+    "eszkoz_neve": "Súlytárcsa",
+    "suly": "1",
+    "kep": "Kép46",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+},
+{
+    "eszkoz_tipus_szamlalo": "47",
+    "eszkoz_neve": "Guggoló Keret",
+    "suly": "1",
+    "kep": "Kép47",
+    "leiras": "majd ki lesz toltve",
+    "created_at": "0000-00-00 00:00:00",
+    "updated_at": "0000-00-00 00:00:00"
+}
+]
+
+}
+

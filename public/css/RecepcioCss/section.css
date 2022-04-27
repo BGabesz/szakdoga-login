@@ -1,0 +1,47 @@
+@charset "utf-8";
+section{
+  margin-top: 10px;
+  /* background-color: aliceblue; */
+}
+header{
+  box-shadow:0px 0px 6px 10px #222;
+}
+section select {
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-align-last: center;
+  -moz-text-align-last: center;
+  font-size: 16px;
+  color:rgb(88, 88, 88);
+  width: 220px;
+  height: 40px;
+}
+.szekrenyekValasztas{
+  margin: 10px;
+}
+.osszesFeloldasGomb {
+  /* Lefoglal gomb módosítása */
+  background-color: black;
+  color: whitesmoke;
+  transition-duration: 0.8s;
+  padding: 3px;
+  border-radius: 5px;
+  box-shadow:0px 3px 10px 0px #222;
+}
+.osszesFeloldasGomb:hover {
+  cursor: pointer;
+  /* Lefoglal gomb módosítása */
+  color: white;
+  padding: 9px 13px 10px 13px;
+  border-radius: 8px;
+  font-weight: 600;
+  
+}
+.osszesFeloldasGomb:active {
+  /* Lefoglal gomb módosítása */
+  background-color: darkred;
+}
+.szekrenyValtoztat {
+  text-align: center;
+}

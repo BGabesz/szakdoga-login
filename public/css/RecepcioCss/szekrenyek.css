@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+.szekrenyek{
+  padding-right: 10px;
+  padding-left: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+/* .szekrenyValtoztat{
+  background-color: rgb(224, 224, 224);
+} */
+/* 
+@media screen and (max-width: 1390px) {
+    .szekrenyek{
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    }
+}
+  @media screen and (max-width: 1240px) {
+    .szekrenyek{
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+  }
+  @media screen and (max-width: 1090px) {
+    .szekrenyek{
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+  }
+
+@media screen and (max-width: 940px) {
+  .szekrenyek{
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr ;
+  }
+}
+@media screen and (max-width: 790px) {
+    .szekrenyek{
+      grid-template-columns:1fr 1fr 1fr 1fr ;
+    }
+  }
+@media screen and (max-width: 640px) {
+    .szekrenyek{
+      grid-template-columns:1fr 1fr 1fr ;
+    }
+  }
+@media screen and (max-width: 490px) {
+    .szekrenyek{
+      grid-template-columns:55% 45% ;
+    }
+  }
+  @media screen and (max-width: 340px) {
+    .szekrenyek{
+      grid-template-columns:1fr ;
+    }
+    section{
+      background-color: aliceblue;
+    }
+    .szekrenyValtoztat{
+      background-color: rgb(224, 224, 224);
+    }
+  } */

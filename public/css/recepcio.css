@@ -1,0 +1,96 @@
+@charset "utf-8";
+main{
+    margin: auto;
+    padding: auto;
+    border: outset;
+    display: grid;
+    grid-template-areas: 
+    "h h n n n n"
+    "a a a a a a"
+    "s s s s s s"
+    "f f f f f f"
+}
+header{
+    grid-area:h;
+}
+nav{
+    grid-area:n;
+}
+article{
+    grid-area:a;
+}
+section{
+    grid-area:s;
+}
+footer{
+    grid-area:f;
+}
+header{
+    
+    background-color: gold;
+    text-align: left;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+header h1{
+    margin: 10px;
+}
+nav ul li{
+    display:inline-block;
+    text-align: center;
+}
+nav{
+    text-align: right;
+    background-color: gold;
+}
+nav li{
+    margin: 10px;
+}
+nav ul li a{
+    padding:10px;
+    border-radius:5px;
+    background-color: black;
+    list-style-type: none;
+    font-size: 30px;
+    color:orange;
+    text-decoration:none;
+    font-family:'Abril Fatface';
+    
+}
+nav ul li a:hover {
+    background-color: orange; 
+    color: black;
+    border: 2px solid black;
+  }
+article{
+    background-color: rgb(224, 224, 224);
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    text-align: center;
+}
+article h3, span{
+    
+    margin:10px;
+    font-size: 30;
+    display:inline;
+}
+section{
+    margin: 10px;
+}
+#JelenlegiFoglaltSzekrenyek{
+    font-size: 20px;
+    
+}
+table{
+    background-color: blanchedalmond;
+}
+footer{
+    text-align: center;
+}
+section h3{
+    font-size:30px;
+    text-align: center;
+}
+#kereses h4, input,button {
+    display:inline;
+}

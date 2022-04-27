@@ -1,0 +1,212 @@
+{
+  "berlets": [
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "1",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "4",
+      "ugyfel": "2",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "3",
+      "datum_tol": "2021-02-13 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "ugyfel": "4",
+      "datum_tol": "2022-02-14 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "3",
+      "ugyfel": "5",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "6",
+      "datum_tol": "2021-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "7",
+      "datum_tol": "2021-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "ugyfel": "8",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "9",
+      "datum_tol": "2021-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "9",
+      "datum_tol": "2022-01-23 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "9",
+      "datum_tol": "2022-03-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "4",
+      "ugyfel": "10",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "5",
+      "ugyfel": "11",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "ugyfel": "12",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "3",
+      "ugyfel": "13",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "14",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "4",
+      "ugyfel": "15",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "ugyfel": "16",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "17",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "4",
+      "ugyfel": "18",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "5",
+      "ugyfel": "19",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "ugyfel": "20",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "3",
+      "ugyfel": "21",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "1",
+      "ugyfel": "22",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "4",
+      "ugyfel": "23",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "berlet_tipus_id": "2",
+      "ugyfel": "24",
+      "datum_tol": "2022-01-29 00:00:00",
+      "datum_ig": "0000-00-00 00:00:00",
+      "created_at": null,
+      "updated_at": null
+    }
+  ]
+}

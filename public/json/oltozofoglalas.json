@@ -1,0 +1,106 @@
+{"oltozofoglalas":
+   [
+    {
+      "oltozofog_id": 1,
+      "szekreny_id": 1,
+      "ugyfel": 10,
+      "datum": "2021-09-09 08:05:00"
+    },
+    {
+      "oltozofog_id": 1,
+      "szekreny_id": 1,
+      "ugyfel": 50,
+      "datum": "2021-09-09 10:10:10"
+    },
+    {
+      "oltozofog_id": 3,
+      "szekreny_id": 10,
+      "ugyfel": 12,
+      "datum": "2021-09-09"
+    },
+    {
+      "oltozofog_id": 4,
+      "szekreny_id": 11,
+      "ugyfel": 1,
+      "datum": "2021-09-09"
+    },
+    {
+      "oltozofog_id": 5,
+      "szekreny_id": 13,
+      "ugyfel": 40,
+      "datum": "2021-09-09"
+    }
+  ],
+  "szekrenies": [
+    {
+      "szekreny_id": 1,
+      "urese": true,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 2,
+      "urese": true,
+      "tipus": "Női"
+    },
+    {
+      "szekreny_id": 3,
+      "urese": true,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 4,
+      "urese": false,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 5,
+      "urese": true,
+      "tipus": "Női"
+    },
+    {
+      "szekreny_id": 6,
+      "urese": false,
+      "tipus": "Női"
+    },
+    {
+      "szekreny_id": 7,
+      "urese": true,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 8,
+      "urese": false,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 9,
+      "urese": true,
+      "tipus": "Női"
+    },
+    {
+      "szekreny_id": 10,
+      "urese": true,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 11,
+      "urese": true,
+      "tipus": "Női"
+    },
+    {
+      "szekreny_id": 12,
+      "urese": true,
+      "tipus": "Férfi"
+    },
+    {
+      "szekreny_id": 13,
+      "urese": false,
+      "tipus": "Női"
+    },
+    {
+      "szekreny_id": 14,
+      "urese": false,
+      "tipus": "Férfi"
+    }
+  ]
+}

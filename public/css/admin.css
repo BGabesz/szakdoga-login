@@ -1,0 +1,151 @@
+@charset "utf-8";
+main {
+    margin: auto;
+    padding: auto;
+    border: outset;
+    display: grid;
+    grid-template-areas:
+        "he he he he he he"
+        "as re re re re re"
+        "as ar ar ar ar el";
+}
+header {
+    height: 100px;
+
+    grid-area: he;
+    border: 2px solid palegoldenrod;
+}
+#RendezesekHelye {
+    grid-area: re;
+    width: 100%;
+    background-color: aqua;
+   
+  ;
+}
+aside {
+    height: 600px;
+    grid-area: as;
+    border: peru;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-right: 20px;
+}
+aside button,
+aside a {
+    height: 40px;
+    width: 100%;
+    padding: auto;
+}
+main{
+    background-color: aqua;
+}
+article {
+    border: 20px;
+    grid-area: ar;
+    
+}
+
+.elemek {
+    padding: auto;
+    margin: auto;
+    grid-area: el;
+  
+}
+.elemek.clicked {
+   
+    overflow-y: hidden;
+    overflow-x: auto;
+    overflow: scroll;
+    width: 100%;
+
+    display: grid;
+    height: 500px;
+}
+.elemek.clicked .elem{
+   padding: 20px;
+    margin: 0px;
+    width: auto;
+}
+#kuld{
+    background-color: rgb(49, 194, 49);
+    color: aliceblue;
+}
+
+.elem {
+    
+    padding: auto;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: auto;
+    display: grid;
+    grid-template-columns: 350px;
+    padding: 4px;
+    border : 2px solid red;
+    text-align: left;
+  
+}
+.elemek .elem p {
+    text-align: right;
+}
+.elemek.clicked .elem p,
+.elemek.clicked .elem h6,
+.elemek.clicked .elem h5 {
+    font-size: small;
+}
+.elem p {
+    margin-bottom: 10px;
+}
+
+
+#javitas {
+    grid-area: ja;
+    background-color: aqua;
+    width: 95%;
+    height: 500px;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: 1px;
+    border: 1px black;
+}
+#javitas button {
+    height: 30px;
+    width: 100px;
+}
+button a,
+button a:hover,
+button a:focus {
+    color: #000;
+    text-decoration: none;
+}
+@media only screen and (max-width: 1000px) {
+    main {
+        margin: auto;
+        padding: auto;
+        border: outset;
+        display: grid;
+        grid-template-areas:
+            "he he he he he he"
+            "as re re re re re"
+            "as ar ar ar ar ar"
+            "el el el el el el";
+    }
+    .elemek.clicked {
+    
+        overflow-y: hidden;
+        overflow-x: auto;
+        overflow: scroll;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    header{
+        font-size: x-large;
+    };
+    
+}

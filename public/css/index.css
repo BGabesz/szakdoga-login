@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+main {
+    display: grid;
+    grid-template-areas: 
+        "c c c c c c" 
+        "h h h h h h" 
+        "u u u u u u"
+        "n n n n n n" 
+        "a a a a a a" 
+        "s s s s s s"
+        "f f f f f f";
+    font-size: 19px;
+}
+
+article {
+    grid-area: a;
+    width: 70%;
+    margin: auto;
+    
+}
+
+article img {
+    float: right;
+    width: 45%;
+    height: auto;
+    opacity: 85%;
+    padding: 15px;
+}
+
+article ul li {
+    list-style-type: none;
+}
+
+aside {
+    grid-area: s;
+    width: 50%;
+    margin: auto;
+}
+
+aside ul {
+    padding-left: 30px;
+}
+
+aside ul li {
+    list-style-type: circle;
+}
+
+aside div {
+    margin: 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+    article {
+        width: 90%;
+        margin: auto;
+    }
+
+    aside{
+        width: 90%;
+        margin: auto;
+    };
+}
+

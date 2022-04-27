@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+main {
+    display: grid;
+    grid-template-areas:
+        "u u u u u u" 
+        "n n n n n n" 
+        "s s s s s s"
+        "a a a a a a"
+        "t t t t t t"
+        "r r r r r r" 
+        "f f f f f f";
+    font-size: 19px;
+    grid-gap: 10px;
+}
+
+#terkep{
+    grid-area: r;
+    width: 100%;
+    margin: auto;
+}
+
+.tablazat{
+    grid-area: t;
+}
+
+#szabalyzat {
+    width: 100%;
+    margin: auto;
+    grid-area: a;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+
+#szabalyzat ul li {
+    list-style: none;
+}
+
+#szabalyzat p {
+    margin: 40px;
+}
+
+table {
+    border-radius: 1%;
+    box-shadow: 5px 10px #b9b1b1;
+}
+
+#leiras{
+    grid-area: s;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .tablazat{
+        width: 100%;
+        margin: auto;
+    }
+}
